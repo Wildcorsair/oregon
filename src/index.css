@@ -1,0 +1,54 @@
+body, h1, h2, h3, h4, h5, h6, div, span, button {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #f5f7fa;
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+.user-pic {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.user-name {
+    color: #1a9dae;
+}
+
+.drop-down-list {
+    width: 130px;
+    padding: 5px 10px;
+    border: 1px solid #cdcdcd;
+}
+
+.drop-down-item {
+    cursor: pointer;
+}
+
+.drop-down-item:hover {
+    background-color: #ccc;
+}
+
+#main-menu li>a {
+    display: block;
+    width: 130px;
+    height: 45px;
+    margin-left: 5px;
+}
+
+#main-menu li {
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@gmail.com"
+    }, {
+        "id": 2,
+        "name": "John Small",
+        "email": "johnsmall@gmail.com"
+    }, {
+        "id": 3,
+        "name": "Sara Connor",
+        "email": "saraconnor@gmail.com"
+    }, {
+        "id": 4,
+        "name": "Alma Vancuver",
+        "email": "alma-vancuver@gmail.com"
+    }, {
+        "id": 5,
+        "name": "Sidney Vancuver",
+        "email": "sidney-vancuver@gmail.com"
+    }
+]

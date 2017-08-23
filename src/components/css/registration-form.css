@@ -1,0 +1,26 @@
+#registration-form {
+    padding: 10px 20px;
+    background-color: #cd9a83;
+    font-family: Monospace sans-serif;
+}
+
+#registration-form input {
+    width: 160px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#registration-form button {
+    border: none;
+    outline: none;
+}
+
+.submit-form-btn {
+    background-color: #a9cd55;
+    width: 64px;
+    height: 32px;
+    border-radius: 5px;
+    border: 1px solid #a9bc33;
+    cursor: pointer;
+}
